@@ -1,4 +1,4 @@
-// File: C:\Users\USER\Downloads\pointer-landing-template\app\layout.tsx
+// File: C:\Users\USER\Videos\SOEX-COPIA\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -96,7 +96,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\USER\\Downloads\\pointer-landing-template",
+    "outputFileTracingRoot": "C:\\Users\\USER\\Videos\\SOEX-COPIA",
     "experimental": {
       "allowedDevOrigins": [],
       "nodeMiddleware": false,
@@ -175,7 +175,7 @@
       "forceSwcTransforms": false,
       "largePageDataBytes": 128000,
       "turbo": {
-        "root": "C:\\Users\\USER\\Downloads\\pointer-landing-template"
+        "root": "C:\\Users\\USER\\Videos\\SOEX-COPIA"
       },
       "typedRoutes": false,
       "typedEnv": false,
@@ -281,7 +281,7 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs"
   },
-  "appDir": "C:\\Users\\USER\\Downloads\\pointer-landing-template",
+  "appDir": "C:\\Users\\USER\\Videos\\SOEX-COPIA",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

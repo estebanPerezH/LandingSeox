@@ -1,4 +1,4 @@
-// File: C:\Users\USER\Downloads\pointer-landing-template\app\page.tsx
+// File: C:\Users\USER\Videos\SOEX-COPIA\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
